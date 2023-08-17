@@ -13,8 +13,6 @@ import epam.learning.task.search.BinarySearch;
 import epam.learning.task.sorting.BubbleSort;
 import epam.learning.task.sorting.InsertionSort;
 import epam.learning.task.sorting.SelectionSort;
-import java.util.ArrayList;
-import java.util.List;
 
 public class Action {
     private ArrayCreator creator = new ArrayCreator();
